@@ -1,0 +1,11 @@
+{
+    "name": "dev/apigastos",
+    "autoload":{
+	"psr-4":{
+		"Settings\\":"App/",
+		"Expenses\\":"src"
+	
+	}
+    },
+    "require": {}
+}
